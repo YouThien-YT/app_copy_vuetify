@@ -42,6 +42,7 @@
   
   <style>
   .cover    {
+    border: 2px solid rgb(0, 0, 0);
     width: 350px;
     height: 550px;
     padding: 10px;
