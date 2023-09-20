@@ -42,18 +42,21 @@
   
   <style>
   .cover    {
-    width: 400px;
-    height: 400px;
+    width: 350px;
+    height: 550px;
     padding: 10px;
     background-color: #c1fffe96;
     border-radius: 20px;
     position: relative;
     top: 10px;
-    left: 35%;
+    left: 37%;
   }
   
   .title {
+    margin-top: 30px;
     margin-left: 20px;
+    font-weight: 1000;
+    font-size: 40px;
   }
   .container {
     position: absolute;
@@ -62,12 +65,12 @@
   }
   .copy-message {
     position: absolute;
-    bottom: 20px;
-    left: 25%;
+    bottom: 50px;
+    left: 22%;
     width: 200px;
     height: 35px;
     border-radius: 20px;
-    background-color: #bab6b6;
+    background-color: #b8b5b5;
   }
   .copy-message b {
     position: absolute;
@@ -85,19 +88,18 @@
   }
   
   .input {
-    height: 35px;
+    height: 38px;
     margin-right: 20px;
     border: 2px solid rgb(9, 190, 121);
-    border-radius: 4px;
+    border-radius: 7px;
   }
   .bt {
-    color: rgb(251, 251, 251);
-    font-size: larger;
-    background-color: rgb(23, 179, 213);
-    border: 3px solid rgb(9, 190, 121);
-    border-radius: 4px;
-    width: 60px;
-    height: 40px;
-
+    color: rgb(20, 19, 19);
+    font-size: 24px;
+    background-color: #D9D9D9;
+    border-radius: 10px;
+    width: 70px;
+    height: 50px;
+    font-weight: 1000;
   }
   </style>
